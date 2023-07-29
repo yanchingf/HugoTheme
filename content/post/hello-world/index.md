@@ -1,19 +1,17 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: About this blog
+description: ...and me ⸜( ´ ꒳ ` )⸝
+slug: amongst other things
+date: 2023-07-23 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - meta
 tags:
-    - Example Tag
+    - writing
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
-
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+*"In a place in La Mancha, whose name i do not wish to recall..."*\
+Hey, I'm yanchingf. I'm a high school student living in Seattle, Washington. I created this website as a way to document my various ventures in life (provided the time and motivation). \
+Note to self: make a back button for the posts.
 
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
